@@ -1,0 +1,1 @@
+"""SmogWise application package."""
